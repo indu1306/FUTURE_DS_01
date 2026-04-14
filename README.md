@@ -1,2 +1,27 @@
-# FUTURE_DS_01
-Here’s a clean description within 350 characters:  This project focuses on Business Sales &amp; Analytics using Excel. It involves cleaning data, analyzing sales performance, and identifying trends through Pivot Tables and charts. The analysis highlights monthly performance, high and low sales periods, helping businesses make data-driven decisions.
+📊 FUTURE_DS_01
+📌 Task 1 - Business Sales & Analytics Internship
+
+🔍 Objective
+Analyze the dataset and generate meaningful insights using Excel.
+
+🛠 Tools Used
+Microsoft Excel
+Pivot Tables
+Charts & Graphs
+
+📈 Work Done
+Cleaned and organized raw data
+Created Pivot Tables
+Performed monthly sales analysis
+Built charts for visualization
+
+📊 Key Insights
+Identified trends in sales over time
+Compared performance across months
+Highlighted high and low sales periods
+
+📁 Files
+FUTURE_DS_01.xlsx
+
+✅ Conclusion
+This task improved my skills in Excel, data analysis, and visualization.
